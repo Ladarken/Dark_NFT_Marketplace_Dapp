@@ -1,0 +1,61 @@
+{
+  "@dapps": {
+    "footer": {
+      "dropdown": {
+        "en": "Inglés",
+        "es": "Español",
+        "fr": "Francés",
+        "ja": "Japonés",
+        "ko": "Coreano",
+        "zh": "Chino"
+      },
+      "links": {
+        "content": "Política de contenido",
+        "ethics": "Código de Ética",
+        "home": "Inicio",
+        "privacy": "Política de privacidad",
+        "terms": "Términos de Uso"
+      }
+    },
+    "navbar": {
+      "account": {
+        "connecting": "Conectando...",
+        "signIn": "Conectar"
+      },
+      "menu": {
+        "avatars": "Avatars",
+        "agora": "Agora",
+        "blog": "Blog",
+        "docs": "Docs",
+        "marketplace": "Marketplace",
+        "builder": "Builder",
+        "events": "Events",
+        "dao": "DAO"
+      }
+    },
+    "sign_in": {
+      "connect": "Conectar",
+      "connected": "Conectado",
+      "connecting": "Conectando...",
+      "error": "No se pudo conectar a la billetera.",
+      "get_started": "Comenzar",
+      "options": {
+        "desktop": "Puedes usar la extensión {metamask_link} o tu cuenta de mail.",
+        "mobile": "Puedes utilizar navegadores móviles como {coinbase_link} o {imtoken_link}.",
+        "samsung": "Puedes utilizar {samsung_link}."
+      }
+    },
+    "login": {
+      "modal": {
+        "title": "Conectar",
+        "subtitle": "Elige como quieres conectarte.",
+        "error": "No se pudo conectar a la billetera.",
+      },
+      "option": {
+        "browser_extension": "Usando una Browser extension",
+        "email": "Usando tu cuenta de email",
+        "mobile": "Usando un navegador móvil"
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "@dapps": {
+    "footer": {
+      "dropdown": {
+        "en": "英語",
+        "es": "スペイン語",
+        "fr": "フランス語",
+        "ja": "日本語",
+        "ko": "韓国語",
+        "zh": "中国語"
+      },
+      "links": {
+        "content": "コンテンツポリシー",
+        "ethics": "倫理規定",
+        "home": "ホーム",
+        "privacy": "個人情報保護方針",
+        "terms": "利用規約"
+      }
+    },
+    "navbar": {
+      "account": {
+        "connecting": "接続中...",
+        "signIn": "サインイン"
+      },
+      "menu": {
+        "avatars": "Avatars",
+        "agora": "Agora",
+        "blog": "Blog",
+        "docs": "Docs",
+        "marketplace": "Marketplace",
+        "builder": "Builder",
+        "events": "Events",
+        "dao": "DAO"
+      }
+    },
+    "sign_in": {
+      "connect": "接続する",
+      "connected": "接続済み",
+      "connecting": "接続中...",
+      "error": "ウォレットに接続できませんでした。",
+      "get_started": "開始する",
+      "options": {
+        "desktop": "{metamask_link}拡張や{ledger_nano_link}のようなハードウェアウォレットを使用できます。",
+        "mobile": "{coinbase_link}や{imtoken_link}などのモバイルブラウザを使用できます。",
+        "samsung": "{samsung_link}を使用できます。"
+      },
+      "modal": {
+        "title": "サインイン",
+        "subtitle": "接続する方法を選択してください",
+        "using": {
+          "browser_extension": "ブラウザ拡張機能の使用",
+          "email": "メールを使用する",
+          "mobile": "モバイルウォレットの使用"
+        }
+      }
+    }
+  }
+}
